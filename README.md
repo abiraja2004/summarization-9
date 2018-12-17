@@ -54,6 +54,6 @@ https://textsumm.herokuapp.com/sumtext/nyt_users/
 
 -------------------
 
-[![Gihub work viz](https://raw.githubusercontent.com/mmehedin/derma_diagnosis/master/temp/gource.png)](https://raw.githubusercontent.com/mmehedin/derma_diagnosis/master/temp/gource.mp4)
+[![Gihub work viz](https://raw.githubusercontent.com/mmehedin/summarization/temp/movie.png)](https://raw.githubusercontent.com/mmehedin/summarization/temp/movie.mp4)
 
 
