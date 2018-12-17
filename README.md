@@ -54,6 +54,6 @@ https://textsumm.herokuapp.com/sumtext/nyt_users/
 
 -------------------
 
-[![Gihub work viz](https://raw.githubusercontent.com/mmehedin/summarization/tree/master/temp/movie.png)](https://raw.githubusercontent.com/mmehedin/summarization/tree/master/temp/movie.mp4)
+[![Gihub work viz](https://raw.githubusercontent.com/mmehedin/summarization/master/temp/movie.png)](https://raw.githubusercontent.com/mmehedin/summarization/master/temp/movie.mp4)
 
 
