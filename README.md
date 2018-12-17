@@ -39,7 +39,7 @@ RNN_ OpenNMT - abstractive - Google 2017 (3, 5, 6, 7, 8) Fig.1
 
 ----------------
 
-![Validation](https://raw.githubusercontent.com/mmehedin/derma_diagnosis/master/temp/graph.png)
+![RNN](https://raw.githubusercontent.com/mmehedin/summarization/master/temp/rnn.png)
 
 
 
